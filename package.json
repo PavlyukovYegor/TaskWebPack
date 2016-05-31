@@ -1,0 +1,19 @@
+{
+  "name": "react-ru-tutorial",
+  "version": "1.0.0",
+  "description": "React ru tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yegor Pavlyukov",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  },
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.13.1"
+  }
+}
